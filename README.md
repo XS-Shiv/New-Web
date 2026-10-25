@@ -2,6 +2,8 @@
 
 Modern landing pages and websites for companies. This repo holds the studio's own site: what we build, past work, pricing and a way to get in touch.
 
+**Website structure (pages, sections, what goes where):** [docs/site-structure.md](docs/site-structure.md)
+
 ## Structure
 
 ```
